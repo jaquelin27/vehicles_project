@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aplicación Web de Análisis de Vehículos en Venta (USA)
 
 Esta aplicación web fue construida con Streamlit, permite visualizar de manera interactiva datos sobre vehículos en venta en EE.UU. Utiliza gráficas interactivas generadas con Plotly.
@@ -17,3 +18,6 @@ Esta aplicación web fue construida con Streamlit, permite visualizar de manera 
 ## Cómo ejecutarlo
 
 streamlit run app.py
+=======
+# vehicles_project
+>>>>>>> 253b6c171b3d02a17f6a480b5fa946510e7552d5
